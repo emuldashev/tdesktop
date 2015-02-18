@@ -43,13 +43,13 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_month11" = "Ноябрь";
 "lng_month12" = "Декабрь";
 
-"lng_weekday1" = "Mon";
-"lng_weekday2" = "Tue";
-"lng_weekday3" = "Wed";
-"lng_weekday4" = "Thu";
-"lng_weekday5" = "Fri";
-"lng_weekday6" = "Sat";
-"lng_weekday7" = "Sun";
+"lng_weekday1" = "Пн";
+"lng_weekday2" = "Вт";
+"lng_weekday3" = "Ср";
+"lng_weekday4" = "Чт";
+"lng_weekday5" = "Пт";
+"lng_weekday6" = "Сб";
+"lng_weekday7" = "Вс";
 
 "lng_weekday1_full" = "Понедельник";
 "lng_weekday2_full" = "Вторник";
@@ -93,27 +93,27 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_deleted" = "Unknown";
 
 "lng_intro" = "Welcome to the official [a href=\"https://telegram.org/\"]Telegram[/a] desktop app.\nIt's [b]fast[/b] and [b]secure[/b].";
-"lng_start_msgs" = "START MESSAGING";
+"lng_start_msgs" = "НАЧАТЬ ОБЩЕНИЕ";
 
-"lng_intro_next" = "NEXT";
-"lng_intro_finish" = "SIGN UP";
+"lng_intro_next" = "ДАЛЕЕ";
+"lng_intro_finish" = "ЗАРЕГИСТРИРОВАТЬСЯ";
 
-"lng_phone_ph" = "Your phone number";
-"lng_phone_title" = "Your Phone";
-"lng_phone_desc" = "Please confirm your country code and\nenter your phone number.";
+"lng_phone_ph" = "Ваш номер телефона";
+"lng_phone_title" = "Ваш телефон";
+"lng_phone_desc" = "Пожалуйста подтвердите код вашей страны и\nвведите номер телефона.";
 "lng_phone_notreg" = "Note: if you don't have a Telegram account yet,\nplease [b]sign up[/b] with your [a href=\"https://telegram.org/\"]iOS / Android[/a] or {signup_start}here »{signup_end}";
 "lng_country_code" = "Код страны";
 "lng_bad_country_code" = "Неправильный код страны";
 "lng_country_ph" = "Поиск";
 "lng_country_done" = "Готово";
-"lng_country_none" = "Country not found";
-"lng_country_select" = "Select Country";
+"lng_country_none" = "Страна не найдена";
+"lng_country_select" = "Выберите страну";
 
-"lng_code_ph" = "Your code";
-"lng_code_desc" = "We have sent you a message with activation\ncode to your phone. Please enter it below.";
-"lng_code_call" = "Telegram will dial your number in {minutes}:{seconds}";
+"lng_code_ph" = "Ваш код";
+"lng_code_desc" = "Мы отправили на ваш номер телефона сообщение с активационным\nкодом. Пожалуйста введите его ниже.";
+"lng_code_call" = "Telegram позвонит на ваш номер через {minutes}:{seconds}";
 "lng_code_calling" = "Requesting a call from Telegram..";
-"lng_code_called" = "Telegram dialed your number";
+"lng_code_called" = "Telegram набрал ваш номер";
 
 "lng_bad_phone" = "Неправильный номер телефона. Попробуйте еще раз.";
 "lng_bad_phone_noreg" = "Номер телефона не зарегистрирован.";
@@ -121,25 +121,25 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_bad_name" = "Пожалуйста укажите ваше имя и фамилию.";
 "lng_bad_photo" = "Выбрано неправильное фото.";
 
-"lng_bad_image_for_photo" = "This image can't be sent that way.\nWould you like to send it as a file?";
+"lng_bad_image_for_photo" = "Это изображение невозможно отправить This image can't be sent that way.\nWould you like to send it as a file?";
 
-"lng_signup_title" = "Information and photo";
-"lng_signup_desc" = "Please enter your name and\nupload a photo.";
+"lng_signup_title" = "Информация и фотография";
+"lng_signup_desc" = "Введите ваше имя и\nзагрузите фотографию.";
 
-"lng_signup_firstname" = "First Name";
-"lng_signup_lastname" = "Last Name";
+"lng_signup_firstname" = "Имя";
+"lng_signup_lastname" = "Фамилия";
 
-"lng_dlg_filter" = "Search";
-"lng_dlg_new_group_name" = "Group name";
-"lng_dlg_create_group" = "Create";
-"lng_no_contacts" = "You have no contacts";
-"lng_contacts_loading" = "Loading..";
-"lng_contacts_not_found" = "No contacts found";
+"lng_dlg_filter" = "Поиск";
+"lng_dlg_new_group_name" = "Имя группы";
+"lng_dlg_create_group" = "Создать";
+"lng_no_contacts" = "У вас нет контактов";
+"lng_contacts_loading" = "Загрузка..";
+"lng_contacts_not_found" = "Контакты не найдены";
 
-"lng_settings_save" = "Save";
+"lng_settings_save" = "Сохранить";
 "lng_settings_upload" = "Set Profile Photo";
-"lng_settings_crop_profile" = "Select square area for your profile photo";
-"lng_settings_uploading_photo" = "Uploading photo..";
+"lng_settings_crop_profile" = "Выберите квадратную область для своей фотографии в профиле";
+"lng_settings_uploading_photo" = "Загрузка фото..";
 
 "lng_username_title" = "Change username";
 "lng_username_about" = "You can choose a username on Telegram.\nIf you do, other people will be able to find\nyou by this username and contact you\nwithout knowing your phone number.\n\nYou can use a-z, 0-9 and underscores.\nMinimum length is 5 characters.";
@@ -468,13 +468,13 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 
 "lng_wnd_choose_program_menu" = "Choose Default Program...";
 
-"lng_wnd_menu_undo" = "Undo";
-"lng_wnd_menu_redo" = "Redo";
+"lng_wnd_menu_undo" = "Отменить";
+"lng_wnd_menu_redo" = "Вернуть";
 
 // Linux specific
 
-"lng_linux_menu_undo" = "Undo";
-"lng_linux_menu_redo" = "Redo";
+"lng_linux_menu_undo" = "Отменить";
+"lng_linux_menu_redo" = "Вернуть";
 
 // Mac specific
 
@@ -494,22 +494,22 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_mac_menu_hide_others" = "Hide Others";
 "lng_mac_menu_show_all" = "Show All";
 "lng_mac_menu_preferences" = "Preferences...";
-"lng_mac_menu_quit_telegram" = "Quit {telegram}";
-"lng_mac_menu_about_telegram" = "About {telegram}";
-"lng_mac_menu_file" = "File";
-"lng_mac_menu_logout" = "Log Out";
-"lng_mac_menu_edit" = "Edit";
-"lng_mac_menu_undo" = "Undo";
-"lng_mac_menu_redo" = "Redo";
-"lng_mac_menu_cut" = "Cut";
-"lng_mac_menu_copy" = "Copy";
-"lng_mac_menu_paste" = "Paste";
-"lng_mac_menu_delete" = "Delete";
-"lng_mac_menu_select_all" = "Select All";
+"lng_mac_menu_quit_telegram" = "Выйти из {telegram}";
+"lng_mac_menu_about_telegram" = "О программе {telegram}";
+"lng_mac_menu_file" = "Файл";
+"lng_mac_menu_logout" = "Выйти";
+"lng_mac_menu_edit" = "Правка";
+"lng_mac_menu_undo" = "Отменить";
+"lng_mac_menu_redo" = "Вернуть";
+"lng_mac_menu_cut" = "Вырезать";
+"lng_mac_menu_copy" = "Копировать";
+"lng_mac_menu_paste" = "Вставить";
+"lng_mac_menu_delete" = "Удалить";
+"lng_mac_menu_select_all" = "Выделить все";
 "lng_mac_menu_window" = "Window";
-"lng_mac_menu_contacts" = "Contacts";
-"lng_mac_menu_add_contact" = "Add Contact";
-"lng_mac_menu_new_group" = "New Group";
-"lng_mac_menu_show" = "Show Telegram";
+"lng_mac_menu_contacts" = "Контакты";
+"lng_mac_menu_add_contact" = "Добавить контакт";
+"lng_mac_menu_new_group" = "Новая группа";
+"lng_mac_menu_show" = "Показать Telegram";
 
 // Keys finished
