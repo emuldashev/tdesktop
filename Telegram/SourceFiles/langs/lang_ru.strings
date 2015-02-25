@@ -73,7 +73,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_status_recently" = "last seen recently";
 "lng_status_last_week" = "last seen within a week";
 "lng_status_last_month" = "last seen within a month";
-"lng_status_invisible" = "invisible";
+"lng_status_invisible" = "невидимый";
 "lng_status_lastseen_now" = "last seen just now";
 "lng_status_lastseen_minutes" = "last seen {count:_not_used_|# minute|# minutes} ago";
 "lng_status_lastseen_hours" = "last seen {count:_not_used_|# hour|# hours} ago";
@@ -81,14 +81,14 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_status_lastseen_yesterday" = "last seen yesterday at {time}";
 "lng_status_lastseen_date" = "last seen {date}";
 "lng_status_lastseen_date_time" = "last seen {date} at {time}";
-"lng_status_online" = "online";
-"lng_status_connecting" = "connecting..";
+"lng_status_online" = "в сети";
+"lng_status_connecting" = "подключение..";
 
 "lng_chat_status_unaccessible" = "group is unaccessible";
 "lng_chat_status_members" = "{count:no members|# member|# members}";
 "lng_chat_status_members_online" = "{count:_not_used_|# member|# members}, {count_online:_not_used_|# online|# online}";
 
-"lng_server_error" = "Internal server error.";
+"lng_server_error" = "Внутренняя ошибка сервера.";
 "lng_flood_error" = "Too much tries. Please try again later.";
 "lng_deleted" = "Unknown";
 
@@ -112,7 +112,7 @@ Copyright (c) 2014 John Preston, https://desktop.telegram.org
 "lng_code_ph" = "Ваш код";
 "lng_code_desc" = "Мы отправили на ваш номер телефона сообщение с активационным\nкодом. Пожалуйста введите его ниже.";
 "lng_code_call" = "Telegram позвонит на ваш номер через {minutes}:{seconds}";
-"lng_code_calling" = "Requesting a call from Telegram..";
+"lng_code_calling" = "Запрос звонка от Telegram...";
 "lng_code_called" = "Telegram набрал ваш номер";
 
 "lng_bad_phone" = "Неправильный номер телефона. Попробуйте еще раз.";
